@@ -1,5 +1,9 @@
+<<<<<<< ours
 <<<<<<< HEAD
 all 
 =======
 all right
 >>>>>>> 9f38a656ab9cbe4aa4e4eb1b46b6a1956d8bf0bc
+=======
+all right
+>>>>>>> theirs
